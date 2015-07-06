@@ -18,10 +18,9 @@ header
 {
 	background-color: rgba(34,34,34,1.00);
 	color: rgba(212,200,30,1.00);
-	font-size: 2.4em;
-	padding: 5vh 0vh;
+	font-size: 5vh;
+	padding: 4vh 0vh;
 	text-align: center;
-	height: 10vh;
 	font-weight: 900;
 }
 
@@ -29,9 +28,9 @@ main
 {
 	background-color: rgba(212,200,30,1.00);
 	color: rgba(34,34,34,1.00);
-	height: 36vh;
-	padding-top: 28vh;
-	font-size: 2.8em;
+	height: 42vh;
+	padding-top: 38.52vh;
+	font-size: 7vh;
 	text-align: center;
 	font-weight: 100;
 }
@@ -40,9 +39,8 @@ footer
 {
 	background-color: rgba(34,34,34,1.00);
 	color: rgba(239,239,239,1.00);
-	font-size: 1.4em;
-	padding: 5vh 0vh;
+	font-size: 2.48vh;
+	padding: 2vh 0vh;
 	font-weight: 400;
 	text-align: center;
-	height: 6vh;
 }

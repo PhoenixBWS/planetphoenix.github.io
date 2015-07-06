@@ -37,7 +37,7 @@ background: -o-linear-gradient(-45deg,  rgba(255,255,255,0.28) 0%,rgba(255,255,2
 background: -ms-linear-gradient(-45deg,  rgba(255,255,255,0.28) 0%,rgba(255,255,255,0.28) 10%,rgba(255,255,255,0) 10%,rgba(255,255,255,0) 20%,rgba(255,255,255,0.28) 20%,rgba(255,255,255,0.28) 30%,rgba(255,255,255,0) 30%,rgba(255,255,255,0) 40%,rgba(255,255,255,0.28) 40%,rgba(255,255,255,0.28) 50%,rgba(255,255,255,0) 50%,rgba(255,255,255,0) 60%,rgba(255,255,255,0.28) 60%,rgba(255,255,255,0.28) 70%,rgba(255,255,255,0) 70%,rgba(255,255,255,0) 80%,rgba(255,255,255,0.28) 80%,rgba(255,255,255,0.28) 90%,rgba(255,255,255,0) 90%,rgba(255,255,255,0) 100%,rgba(255,255,255,0.28) 100%); /* IE10+ */
 background: linear-gradient(135deg,  rgba(255,255,255,0.28) 0%,rgba(255,255,255,0.28) 10%,rgba(255,255,255,0) 10%,rgba(255,255,255,0) 20%,rgba(255,255,255,0.28) 20%,rgba(255,255,255,0.28) 30%,rgba(255,255,255,0) 30%,rgba(255,255,255,0) 40%,rgba(255,255,255,0.28) 40%,rgba(255,255,255,0.28) 50%,rgba(255,255,255,0) 50%,rgba(255,255,255,0) 60%,rgba(255,255,255,0.28) 60%,rgba(255,255,255,0.28) 70%,rgba(255,255,255,0) 70%,rgba(255,255,255,0) 80%,rgba(255,255,255,0.28) 80%,rgba(255,255,255,0.28) 90%,rgba(255,255,255,0) 90%,rgba(255,255,255,0) 100%,rgba(255,255,255,0.28) 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#47ffffff', endColorstr='#47ffffff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-        background-size: 53vh;
+        background-size: 52.8vh;
 	background-repeat: repeat-x;
 	color: rgba(34,34,34,1.00);
 	height: 42vh;

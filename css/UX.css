@@ -12,14 +12,8 @@
 	font-family: 'Roboto', sans-serif;
 }
 
-body
-{
-	background-color: rgba(212,200,30,1.00);
-}
-
 header
 {
-	background-color: rgba(34,34,34,1.00);
 	color: rgba(212,200,30,1.00);
 	font-size: 5vh;
 	padding: 4vh 0vh;
